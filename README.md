@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 -->
 
-<img src="https://www.google.com/"/>
+<img src="https://www.boavista.rr.leg.br/imagens/emconstruo.jpg/image_view_fullscreen"/>
