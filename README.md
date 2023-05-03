@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 
 -->
 
-# Welcome!
+## About Me
 
- 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/ThGarcia/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garciathiagorafael/)
 
-## I'm Thiago Garcia!
-
-recently graduated in computer science, enthusiast in the field of informatics, working with technology, hardware and software, for more than 15 years, seeking professionalization in the area, with the objective of specializing in artificial intelligence
+I'm a computer science enthusiast with over 15 years of experience working with technology, hardware, and software. I recently graduated in Computer Science and I am seeking professionalization in the field, with the objective of specializing in Artificial Intelligence.
 
 :computer: I'm a Developer!
 
@@ -39,16 +38,8 @@ recently graduated in computer science, enthusiast in the field of informatics, 
 
 :outbox_tray: 2023 Goals: find a new job and start a graduate degree.
 
- 
+Thanks for visiting.
 
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/ThGarcia/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_GIT)]( https://www.linkedin.com/in/garciathiagorafael/)
-
-- Thanks for visiting.
-
-- Enjoy it!! \o/
+Enjoy it!! \o/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThGarcia&layout=compact)](https://github.com/ThGarcia/github-readme-stats)
