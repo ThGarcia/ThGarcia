@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## I'm Thiago Garcia!
 
- 
+recently graduated in computer science, enthusiast in the field of informatics, working with technology, hardware and software, for more than 15 years, seeking professionalization in the area, with the objective of specializing in artificial intelligence
 
 :computer: I'm a Developer!
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: find a new job and start a graduate degree.
 
  
 
