@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/ThGarcia/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garciathiagorafael/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCfYtrwx0tund9nZF2VhZUCw/)
 
 I'm a computer science enthusiast with over 15 years of experience working with technology, hardware, and software. I recently graduated in Computer Science and I am seeking professionalization in the field, with the objective of specializing in Artificial Intelligence.
 
