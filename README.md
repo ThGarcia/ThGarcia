@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 
 ## About Me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/ThGarcia/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garciathiagorafael/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCfYtrwx0tund9nZF2VhZUCw/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ThGarcia/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garciathiagorafael/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCfYtrwx0tund9nZF2VhZUCw/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:garciathiagorafael@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/garciathiagorafael/)
 
 I'm a computer science enthusiast with over 15 years of experience working with technology, hardware, and software. I recently graduated in Computer Science and I am seeking professionalization in the field, with the objective of specializing in Artificial Intelligence.
 
